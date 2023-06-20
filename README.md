@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=1024x1024&w=is&k=20&c=JHHxZ25gIwgBtYyFxziTFrOuilyogTzs5KQKBhsaZhE=" align="center" style="width: 50%" />
+<img src="" align="center" style="width: 50%" />
 </div>  
 
 ### <div align="center">I'm Rishav, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
