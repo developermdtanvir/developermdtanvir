@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/xXpdNSM/background-Github.png"  />
+<img src="https://i.ibb.co/xXpdNSM/background-Github.png" width="100%"  />
 </div>  
 
 ### <div align="center">I'm Rishav, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
