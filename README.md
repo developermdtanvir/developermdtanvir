@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Tanvir Hossain](https://i.ibb.co/G3dnRnx/Youtub-cover-photo.png)
+![Tanvir Hossain](https://i.ibb.co/hM24tgk/banner.png)
 
 # 💫 About Me:
 
